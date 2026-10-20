@@ -1,0 +1,9 @@
+{
+  "name": "genpark-llm-token-cost-budget-tracker-skill",
+  "version": "1.0.1",
+  "description": "Multi-model LLM token cost budget ledger and burn rate forecaster enforcing spending limits and early warning alerts",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
